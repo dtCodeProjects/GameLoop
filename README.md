@@ -2,4 +2,5 @@
 
 ## GameLoop is a simple framework built on top of SFML3 to assist in the creation of interactive 2D programs.
 
+** Note: GameLoop logo is AI generated, C++ source code is human generated, mistakes and all **
 
